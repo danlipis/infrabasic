@@ -1,1 +1,1 @@
-# infrabasic
+# setup basic infra with Terraform
