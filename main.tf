@@ -8,7 +8,7 @@ provider "oci" {
 }
 
 data "oci_identity_compartment" "compartment_oci" {
-  id = ""
+  id = "ocid1.compartment.oc1..aaaaaaaa3wongevnrqfcl5tgm4ftqn3gxuu2wx7d5e26le2wxlp6gse6b4ja"
 }
 
 ### Criar VCN
